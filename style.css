@@ -1,11 +1,20 @@
 .jumbotron {
   padding-top: 6rem;
-  background-color: #e2edff;
+  background-color: #27364e;
+  color: aliceblue;
 }
 
 #projects {
-  background-color: #e2edff;
+  background-color: #27364e;
 }
 section {
   padding-top: 5rem;
+}
+
+.navbar {
+  background-color: #1e64c0;
+}
+
+.footer {
+  background-color: #1e64c0;
 }
